@@ -1,0 +1,4 @@
+/client
+node_modules
+deployment
+/server/routes/config.js
